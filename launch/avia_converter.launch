@@ -1,0 +1,5 @@
+<!-- launch  avia_msg_converter_node-->
+<launch>
+    <node pkg="avia_msg_converter" type="avia_msg_converter_node" name="avia_msg_converter_node" output="screen">
+    </node>
+</launch>
